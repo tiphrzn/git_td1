@@ -1,1 +1,7 @@
 # git_td1
+LA 
+VERITE
+VERTABLE
+NEST 
+PAS 
+VERIDIQUE
