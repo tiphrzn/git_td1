@@ -1,4 +1,4 @@
-# git_td1
+# git_td1 Antoine Tiphaine Daniel Apisan
 a
 b
 c
@@ -24,4 +24,5 @@ Et le riche métal de notre volonté
 Est tout vaporisé par ce savant chimiste.
 Charles 
 Baudelaire
+
 
