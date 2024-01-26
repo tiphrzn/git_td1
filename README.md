@@ -5,3 +5,10 @@ va
 avoir
 une bonne
 note
+LA 
+VERITE
+VERTABLE
+NEST 
+PAS 
+VERIDIQUE
+
