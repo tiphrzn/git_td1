@@ -1,0 +1,10 @@
+le lien vers gitLab : 
+https://gitlab.com/danraza12/git_td1
+Sur gitlab, les branches ont été merge et il ne reste plus qu'une branche.
+
+Sur github, j'ai pris la précaution de ne pas delete les branches au cas ou. J'ai bien fait ! 
+En effet, On s'est trompés de sens pour le merge les branches.
+Cela dit la résolution des conflits aurait été la même.
+
+Une solution pour récupérer nos README.md:
+Charger nos commit avant le merge.
